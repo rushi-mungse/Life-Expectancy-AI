@@ -1,4 +1,3 @@
-# VIEH-Group-Project
 Project Statement: Predict the life expectancy of the person.
 
 What do you need to build: Based on the given dataset, predict the
